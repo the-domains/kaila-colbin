@@ -1,19 +1,4 @@
-name: Kaila Colbin
-favicon: null
-layout_spectrum: 0.630376297980547
 typography_spectrum: 0.8340770078357309
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#F7EDF0'
@@ -25,4 +10,19 @@ color:
   lightness: 0.17865126975812018
   saturation: 0.21246348950080574
   rhythmicContrast: 0.7638854840770364
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.630376297980547
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Kaila Colbin
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 purpose: []
