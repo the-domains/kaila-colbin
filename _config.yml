@@ -19,7 +19,9 @@ analytics:
   google: null
   facebook: null
   twitter: null
-name: Kaila Colbin
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/be73a7c4-99d0-4988-9492-961e7d6b9d68.png
+name: Missing Link
 cta:
   domain: null
   bucket: null
